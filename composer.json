@@ -17,7 +17,7 @@
       "email": "kharanenka@gmail.com"
     }
   ],
-  "version": "1.0.3",
+  "version": "1.0.1",
   "require": {
     "php": ">=5.6"
   },
